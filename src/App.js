@@ -3,7 +3,7 @@ import './App.css';
 
 import { createBrowserRouter, Route, createRoutesFromElements, RouterProvider, Navigate } from 'react-router-dom'
 
-import Main from './pages/Main.js'
+import Main from './pages/Main'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
